@@ -6,7 +6,7 @@ a text editor that runs in the browser. The app will be a single-page applicatio
  2. run npm start to start the server
 
 ## Usage
-![Alt text](assets/Screenshot 2023-05-23 at 2.32.19 AM.png)
+![Alt text](assets/Screenshot-1.png)
 
 ## Credits
 https://github.com/imanmogh/textEditor
